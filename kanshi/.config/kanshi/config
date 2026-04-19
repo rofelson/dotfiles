@@ -1,6 +1,6 @@
 profile desk {
   output "GIGA-BYTE TECHNOLOGY CO., LTD. G27F 22022B004833" mode 1920x1080@60Hz position 0,0 
-  output "eDP-1" mode 1920x1080@60Hz position 1920,0 scale 1
+  output "eDP-1" mode 1920x1080 position 1920,0 scale 1
 }
 
 
@@ -10,5 +10,5 @@ profile desk-1 {
 }
 
 profile nomad {
-output "eDP-1" mode 1920x1080@60Hz enable scale 1
+output "eDP-1" mode 1920x1080 enable scale 1
 }
