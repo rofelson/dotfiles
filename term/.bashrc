@@ -14,4 +14,4 @@ test -s ~/.alias && . ~/.alias || true
 eval "$(starship init bash)" # starship
 export PATH=$HOME/.cargo/bin:$PATH # add cargo bin folder to PATH
 export PATH=$HOME/.config/emacs/bin:$PATH # add doom to PATH
-. $HOME/export-esp.sh # esp-rs requirement
+# . $HOME/export-esp.sh # esp-rs requirement

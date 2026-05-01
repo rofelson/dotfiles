@@ -1,0 +1,9 @@
+stow
+kitty
+lazygit
+zellij
+niri
+starship
+fd
+neovim
+tree-sitter
